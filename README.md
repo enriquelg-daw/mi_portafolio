@@ -1,2 +1,16 @@
 # mi_portafolio
-Este es mi portafolio hecho en HTML, CSS y JS
+
+## Descripción
+Este es mi portafolio creado con HTML, CSS y Javascript.
+
+## Autor
+**Enrique López González**
+
+-[Linkedin] [https://www.linkedin.com/in/enriquelg-daw/]
+
+## Ver ejemplo en vivo
+- [https://github.com/enriquelg-daw/mi_portafolio]
+
+## Instalación
+Este proyecto no necesita instalación. Simplemente abre la carpeta o haz docle click en el .html
+
