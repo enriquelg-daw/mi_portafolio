@@ -9,7 +9,7 @@ Este es mi portafolio creado con HTML, CSS y Javascript.
 -[Linkedin] [https://www.linkedin.com/in/enriquelg-daw/]
 
 ## Ver ejemplo en vivo
-- [https://github.com/enriquelg-daw/mi_portafolio]
+- [https://enriquelg-daw.github.io/mi_portafolio/]
 
 ## Instalación
 Este proyecto no necesita instalación. Simplemente abre la carpeta o haz docle click en el .html
